@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "VvDmKaZati0NFsmhSFrzE9TT5xKCRb0rVmyIDK4KQfA=",
+  "Source": "AppointmentSystemApi",
+  "BasePath": "_content/AppointmentSystemApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
